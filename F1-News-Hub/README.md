@@ -1,2 +1,0 @@
-# test-project
-Shopping app
